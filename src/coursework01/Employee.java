@@ -19,8 +19,7 @@ public class Employee {
             this.department = department;
         }
         this.salary = salary;
-        id = counter;
-        counter++;
+        id = counter++;
     }
 
     public String getFirstName() {
